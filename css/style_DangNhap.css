@@ -1,0 +1,218 @@
+.trang-ng-nhp-ADMIN {
+  width: 1440px;
+  height: 1024px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+}
+
+.trang-ng-nhp-ADMIN .FORM {
+  display: flex;
+  margin-top: -0.6px;
+  height: 615.35px;
+  width: 624px;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 70.54px;
+}
+
+.trang-ng-nhp-ADMIN .logo {
+  display: flex;
+  width: 223.68px;
+  height: 55.9px;
+  align-items: center;
+  gap: 10.16px;
+  position: relative;
+}
+
+.trang-ng-nhp-ADMIN .container {
+  position: relative;
+  width: 55.9px;
+  height: 55.9px;
+}
+
+.trang-ng-nhp-ADMIN .heading {
+  position: relative;
+  width: 157.61px;
+  height: 45.74px;
+}
+
+.trang-ng-nhp-ADMIN .text-wrapper {
+  position: absolute;
+  top: -2px;
+  left: 0;
+  background: linear-gradient(
+    117deg,
+    rgba(119, 150, 235, 1) 0%,
+    rgba(28, 78, 216, 1) 100%
+  );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 38.1px;
+  letter-spacing: 0;
+  line-height: 45.7px;
+  white-space: nowrap;
+}
+
+.trang-ng-nhp-ADMIN .frame {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 22.94px;
+  padding: 27.53px 22.94px;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: var(--neutral-9-4a-3b-8);
+  border-radius: 28.68px;
+  display: flex;
+  position: relative;
+}
+
+.trang-ng-nhp-ADMIN .div-wrapper {
+  width: 578.12px;
+  height: 39px;
+  align-items: center;
+  justify-content: center;
+  gap: 5.74px;
+  padding: 5.74px;
+  display: flex;
+  position: relative;
+}
+
+.trang-ng-nhp-ADMIN .div {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  margin-top: -0.31px;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.trang-ng-nhp-ADMIN .div-2 {
+  flex-direction: column;
+  width: 578.12px;
+  align-items: flex-start;
+  flex: 0 0 auto;
+  display: flex;
+  position: relative;
+}
+
+.trang-ng-nhp-ADMIN .text-wrapper-2 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  margin-top: -0.57px;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--neutral-9-4a-3b-8);
+  font-size: 11.5px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+}
+
+.trang-ng-nhp-ADMIN .text-wrapper-3 {
+  align-self: stretch;
+  color: var(--neutralffffff);
+  font-size: 16.6px;
+  line-height: 28.2px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin-top: -0.83px;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+.trang-ng-nhp-ADMIN .frame-2 {
+  align-items: center;
+  gap: 8.3px;
+  padding: 26.55px 22.4px;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: var(--neutralffffff);
+  border-radius: 24.89px;
+  overflow: hidden;
+  border: 0.83px solid;
+  border-color: var(--neutral-000000);
+  display: flex;
+  position: relative;
+}
+
+.trang-ng-nhp-ADMIN .text-wrapper-4 {
+  justify-content: center;
+  width: fit-content;
+  opacity: 0.3;
+  color: var(--neutral-2c-2b-2b);
+  font-size: 26px;
+  text-align: center;
+  line-height: 39px;
+  white-space: nowrap;
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin-top: -0.83px;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+.trang-ng-nhp-ADMIN .button-flex {
+  display: flex;
+  flex-direction: column;
+  width: 578.12px;
+  height: 64.81px;
+  align-items: center;
+  justify-content: center;
+  gap: 5.74px;
+  padding: 9.18px 229.99px;
+  position: relative;
+  background-color: var(--secondaryaccent);
+  border-radius: 17.21px;
+}
+
+.trang-ng-nhp-ADMIN .span-font-medium {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.trang-ng-nhp-ADMIN .text-wrapper-5 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  margin-top: -1.12px;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 27px;
+  white-space: nowrap;
+}

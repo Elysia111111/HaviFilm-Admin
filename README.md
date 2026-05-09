@@ -15,3 +15,5 @@ Mở file `index.html` bằng trình duyệt Chrome hoặc Firefox.
 - Nguyễn Đình Huy – 2210A01
 - Dương Việt Hoàng – 2210A06  
 - Quách Hùng Việt – 2210A04
+## Giảng viên hướng dẫn
+ThS. Trần Duy Hùng – Trường Đại học Mở Hà Nội
